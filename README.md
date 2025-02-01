@@ -3,7 +3,7 @@
 
 ## My Experience
 
-<img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Senior software engineer at 100x 🪙 (**CURRENT**) <br>
+<img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Senior software engineer at 100x 🪙 (**PAST**) <br>
 <img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Senior Blockchain Developer at The Brooker Group :bank: (**PAST**)<br>
  <img src = "https://media0.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="50px"> Junior Blockchain developer ARV(AI Robotic and Ventures) 🤖 (**PAST**)
 
